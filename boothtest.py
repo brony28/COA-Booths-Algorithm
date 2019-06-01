@@ -157,7 +157,7 @@ print("---------------------------------------------")
 
 
 step=1
-counter = len(msign)
+counter = len(qsign)
 while counter > 0:
 
 	n=len(qsign)-1
